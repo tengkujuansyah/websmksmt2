@@ -326,7 +326,7 @@ header {background-image: url('backg1.jpg');}
 	.input {width: 100%;padding: 0;margin: 0 0 20px 0;}
 
 	.verticalLine{visibility: hidden;padding: 0;margin: 0;}
-	.quote {width: 100% ; padding: 0;margin: 0;text-align: left;}
+	.quote {width: 100% ;padding-top:25px;padding-bottom:25px;text-align: left;}
 	.nav {width: 98% ; padding: 0;margin: 0; text-align: center;}
 	.social {width: 98%; padding: 0 ; margin: 0; text-align: center;}
 	.wrapmap {width: 98%;padding: 0;margin: 0;}
