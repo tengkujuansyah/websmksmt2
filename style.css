@@ -307,7 +307,7 @@ header {background-image: url('backg1.jpg');}
 	.icon { display: block; background: transparent; padding: 10px 0; text-decoration: none; color: #fff; }
 	.icon span { padding-right: 20px; }
 
-	.motto h1{width: 100%;float: none;padding-left: 100px;}
+	.motto h1{width: 100%;float: none;padding:0;margin-top:100px;}
 	.f1 h3{padding:0;margin: 0; float: none;}
 	.f1 {width: 100%;padding:0;}
 	.gallery h2{width: 100%;padding: 0;margin: 0;}
@@ -331,4 +331,5 @@ header {background-image: url('backg1.jpg');}
 	.social {width: 98%; padding: 0 ; margin: 0; text-align: center;}
 	.wrapmap {width: 98%;padding: 0;margin: 0;}
 	.bytengku{text-align: center;}
+	.faq {width:100%; padding:0; margin:0;}
 }
